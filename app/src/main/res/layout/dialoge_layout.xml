@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_gravity="center_horizontal"
+    android:layout_margin="7dp"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:id="@+id/linear_rate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/colorPrimaryDark">
+
+        <ImageView
+            android:id="@+id/image_rate"
+            android:layout_width="match_parent"
+            android:layout_height="93dp"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:padding="16dp"
+            android:src="@drawable/ic_shop_two_black_24dp" />
+    </LinearLayout>
+
+    <TextView
+        android:id="@+id/text_rate"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linear_rate"
+        android:layout_marginTop="5dp"
+        android:gravity="right"
+        android:padding="3dp"
+        android:text="حتى يستمر الدعم لكم يرجى تقيمنا ب5 نجوم !"
+        android:textStyle="bold" />
+
+    <View
+        android:layout_marginTop="5dp"
+        android:id="@+id/view"
+        android:layout_width="match_parent"
+        android:layout_height="0.5dp"
+        android:layout_below="@+id/text_rate"
+        android:background="@color/colorPrimaryDark" />
+
+
+
+
+</RelativeLayout>

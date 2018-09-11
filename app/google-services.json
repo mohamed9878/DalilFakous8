@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "260948519446",
+    "firebase_url": "https://dalilfakous8-de855.firebaseio.com",
+    "project_id": "dalilfakous8-de855",
+    "storage_bucket": "dalilfakous8-de855.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260948519446:android:03faed7b709a0a2e",
+        "android_client_info": {
+          "package_name": "com.momo.engks.dalil"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260948519446-9s10lddp1h21ajlma9gim0digdvkhpap.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.momo.engks.dalil",
+            "certificate_hash": "704c616c572d663f638fd4394c781a0e3e83b6d4"
+          }
+        },
+        {
+          "client_id": "260948519446-77vfs8h3mk65ivv7irb1hcmb1sr428lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEaMfdUz2GINbIJC9kpwuj7OwaYD3Ex54"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260948519446-77vfs8h3mk65ivv7irb1hcmb1sr428lp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
